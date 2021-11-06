@@ -16,6 +16,9 @@ h1 {
 
 .selector {
     color: lightcyan;
+}
+
+.selectors {
     padding: 5%;
     border: solid darkcyan 1px;
     border-radius: 5px;
